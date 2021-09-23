@@ -1,2 +1,2 @@
-# Unity-Majsoul-Link
-连连看小游戏，使用雀魂表情素材
+# Majsoul-LinkGame
+连连看小游戏，Unity开发，使用雀魂表情素材
